@@ -1,0 +1,47 @@
+{
+  "description": "This is a system generated manifest of files expected to be present in this zip. It can be safely deleted.",
+  "metadata": {
+    "generated_at": "2025-04-29T09:53:56+00:00",
+    "trigger": {
+      "file_hashid": "unknown",
+      "action": "unknown"
+    }
+  },
+  "manifest": [
+    {
+      "filename": "SampleSubmission.csv",
+      "filesize": 3394,
+      "description": "This folder shows the structure of the Submission file.",
+      "created_at": "2025-04-27 12:57:17 UTC",
+      "updated_at": "2025-04-27 12:57:22 UTC"
+    },
+    {
+      "filename": "train.geojson",
+      "filesize": 1690439,
+      "description": "This geo file contains the different geometries for the train set.",
+      "created_at": "2025-04-27 12:57:41 UTC",
+      "updated_at": "2025-04-27 12:57:50 UTC"
+    },
+    {
+      "filename": "test.geojson",
+      "filesize": 601099,
+      "description": "This geo file contains the different geometries for the test set.",
+      "created_at": "2025-04-27 12:58:25 UTC",
+      "updated_at": "2025-04-27 12:58:38 UTC"
+    },
+    {
+      "filename": "sample_train.csv",
+      "filesize": 94566,
+      "description": "This sample file shows the paths to the raster images for train set. These path names should be changed to reflect the directory of your data. It only shows the data downloaded for the month of January, so it is not a full set.",
+      "created_at": "2025-04-27 12:58:50 UTC",
+      "updated_at": "2025-04-27 12:59:55 UTC"
+    },
+    {
+      "filename": "ByteSizedAgriStarterNotebook.ipynb",
+      "filesize": 6751286,
+      "description": "This is a starter notebook which shows how to process S2 images and make your first submission. ",
+      "created_at": "2025-04-29 09:53:15 UTC",
+      "updated_at": "2025-04-29 09:53:56 UTC"
+    }
+  ]
+}
